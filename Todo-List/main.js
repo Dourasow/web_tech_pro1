@@ -64,7 +64,7 @@ todoArr.push(HTML);
 
 todoNum.textContent = todoArr.length;
 closeform(e);
-// console.log(todoArr.length)
+console.log(todoArr.length)
 
 })
 
